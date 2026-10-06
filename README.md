@@ -1,0 +1,2 @@
+# GoldMedalHair
+Temporary GoldMedalHair website
